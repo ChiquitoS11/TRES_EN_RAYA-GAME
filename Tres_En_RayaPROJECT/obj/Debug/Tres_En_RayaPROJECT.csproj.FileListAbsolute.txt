@@ -1,0 +1,7 @@
+E:\Programacion\C#\BasicCS\Tres_En_RayaPROJECT\Tres_En_RayaPROJECT\bin\Debug\Tres_En_RayaPROJECT.exe.config
+E:\Programacion\C#\BasicCS\Tres_En_RayaPROJECT\Tres_En_RayaPROJECT\bin\Debug\Tres_En_RayaPROJECT.exe
+E:\Programacion\C#\BasicCS\Tres_En_RayaPROJECT\Tres_En_RayaPROJECT\bin\Debug\Tres_En_RayaPROJECT.pdb
+E:\Programacion\C#\BasicCS\Tres_En_RayaPROJECT\Tres_En_RayaPROJECT\obj\Debug\Tres_En_RayaPROJECT.csproj.AssemblyReference.cache
+E:\Programacion\C#\BasicCS\Tres_En_RayaPROJECT\Tres_En_RayaPROJECT\obj\Debug\Tres_En_RayaPROJECT.csproj.CoreCompileInputs.cache
+E:\Programacion\C#\BasicCS\Tres_En_RayaPROJECT\Tres_En_RayaPROJECT\obj\Debug\Tres_En_RayaPROJECT.exe
+E:\Programacion\C#\BasicCS\Tres_En_RayaPROJECT\Tres_En_RayaPROJECT\obj\Debug\Tres_En_RayaPROJECT.pdb
